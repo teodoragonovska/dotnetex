@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "evZAnig6QugtQZA4x/RfWkLqRYLt+dBuQfRwvlhs3uqHPgTR7AsVAk7LK1XviLGtPAOTwrSeSNzc6DWQCm6XAw==",
+  "success": true,
+  "projectFilePath": "/home/deo/Desktop/development/repositories/dotnetapp/Repositories.csproj",
+  "expectedPackageFiles": [
+    "/home/deo/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/deo/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
